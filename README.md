@@ -12,6 +12,7 @@ S. Maddali _et al_, **A differentiable forward model for the concurrent, multi-p
 [![DOI:10.48550/arXiv.2208.00970](http://img.shields.io/badge/DOI-10.48550/arXiv.2208.00970-1292FC.svg)](https://doi.org/10.48550/arXiv.2208.00970)
 
 [Datasets](https://github.com/siddharth-maddali/mrbcdi/tree/main/data) and [reconstructions](https://github.com/siddharth-maddali/mrbcdi/tree/main/reconstructions) are available here through the Git LFS system and citeable on Zenodo: [![DOI](https://zenodo.org/badge/516969894.svg)](https://zenodo.org/badge/latestdoi/516969894)
+Alternately, the datasets may be downloaded from [here](https://anl.box.com/s/hyoufk4hkdzrbls37drzjjrnwm5519im). 
 
 
 ### System requirements
